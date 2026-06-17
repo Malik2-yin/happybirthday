@@ -10,7 +10,7 @@
           ${section.title || "Hi"}
           <span class="greeting-name">${config.name}</span>
         </h1>
-        <p class="greeting-subtitle">${section.subtitle || ""}</p>
+        <p class="greeting-subtitle">${section.subtitle || "Winda Rahilda"}</p>
       `;
       container.appendChild(div);
       return div;
