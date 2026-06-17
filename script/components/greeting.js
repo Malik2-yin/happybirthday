@@ -8,9 +8,9 @@
       div.innerHTML = `
         <h1 class="greeting-title">
           ${section.title || "Hi"}
-          <span class="greeting-name">${config.name}</span>
+          <span class="Winda Rahilda">${config.name}</span>
         </h1>
-        <p class="greeting-subtitle">${section.subtitle || ""}</p>
+        <p class="Selamat Ulang Tahun">${section.subtitle || ""}</p>
       `;
       container.appendChild(div);
       return div;
